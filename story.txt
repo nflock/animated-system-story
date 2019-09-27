@@ -1,9 +1,22 @@
 	Once there was a young CS student enrolled at the Univeristy of
  Wisconsin. He was taking the course CS400 in Birge 113 at 2:30pm on mondays
- and wendsdays. This mans name is Nick. Nick absolutly loves CS400. Nick is doing assignment with his teammates. he made Github. After he made a Github account , he went to CS lab.
+ and wendsdays. This mans name is Nick. Nick absolutly loves CS400.
+
+ Nick is doing assignment with his teammates. he made Github. After he made a
+ Github account, he went to CS lab.
 
 	Once nick went to the cs lab, he was unable to login to the cs 
 computers because he had memory problems and forgot his password. His memory 
 was terrible due to an extremely embarassing accident during his childhood.
 
-
+When Nick was but 10 years old, he simply wished to play on the swing set
+in his backyard, little did he know, this would be one of the most scarring
+memories of his life. He swung back and forth letting out cries of joy; what
+coul make this play-time any better? "of course! I'll go down the slide",
+he thought. Little did he realize there was a nest of hornets gaurding
+the searing metal giant. He went down, mouth wide open - laughing with joy;
+the perfect place to sting. Within seconds, the hornets were IN HIS MOUTH.
+The stings hurt his lips, but they hurt his memory more, for he absorbed
+so much venom that part of his hippocampus morphed into that of a hornet.
+He gained the strength and resilience of an insect that day, but his ability
+to remember CS logins was forever hindered.
