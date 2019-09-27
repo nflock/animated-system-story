@@ -2,3 +2,8 @@
  Wisconsin. He was taking the course CS400 in Birge 113 at 2:30pm on mondays
  and wendsdays. This mans name is Nick. Nick absolutly loves CS400. Nick is doing assignment with his teammates. he made Github. After he made a Github account , he went to CS lab.
 
+	Once nick went to the cs lab, he was unable to login to the cs 
+computers because he had memory problems and forgot his password. His memory 
+was terrible due to an extremely embarassing accident during his childhood.
+
+
